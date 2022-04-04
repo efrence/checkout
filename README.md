@@ -1,7 +1,7 @@
-# Project Setup
+## Project Setup
 
 `bundle install`
 
-# Run tests
+## Run tests
 
 `rake test`
